@@ -1,13 +1,7 @@
-### 大家好,我是史蒂夫sensei!
-#### 自我介绍
-  我叫stevesensei,一名老鸽子,中国大陆人,东方project同人创作者,音游人.phigros/orzmic/maimai三修玩家,世界一阶魔方爱好者协会会员(指unity开发者)，Mc服务器服主与开发者
-#### 喜欢什么
-  咕咕咕,打音游,和unity摔跤,可爱的女孩子(当然男孩子也好呀),听edm,BlueArchive
-#### 技能点
- - C#开发者,主要是unity
- - .NET后端哥
- - python摸鱼怪(不太会)
- - MC Java服主
- - 网站运维
- - 顶级鸽子
+## Hello there!🙌
 
+本人史蒂夫sensei，就读于齐鲁工业大学计算机专业（其实是赛博保安）
+
+C#后端工程师，Unity `FF(有符号整数)`级程序员，搞电子数据取证的（打比赛陪跑的）
+
+玩BlueArchive导致的，玩Helldivers™2导致的，玩Minecraft导致的， 玩音游导致的
